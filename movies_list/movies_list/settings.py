@@ -33,7 +33,6 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'movie.apps.MovieConfig',
-    'api.apps.ApiConfig',
     'crispy_forms',
     'rest_framework',
     'django.contrib.admin',
